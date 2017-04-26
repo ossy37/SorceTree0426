@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Oshida/scens/main.unity
+  isLoaded: 1
+  isActive: 1
